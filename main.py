@@ -42,7 +42,7 @@ except Exception as e:
         raise e
 
 
-"""
+
 STAGE_NAME = "Model Trainer stage"
 try: 
    logger.info(f"*******************")
@@ -53,7 +53,7 @@ try:
 except Exception as e:
         logger.exception(e)
         raise e
-"""
+
 
 
 
